@@ -10,7 +10,7 @@ module.exports = {
     ],
     sidebar: {
       '/notes/': [
-        '',   //README
+        'js原型链',
         '资源'
       ],
     }
